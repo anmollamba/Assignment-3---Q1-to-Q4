@@ -1,6 +1,6 @@
 # Assignment-3---Q1-to-Q4
 For Question 1,
-my code puts the first element of the squeue "1,2,3,4,5" to the last position and pushes the second element to the first position resulting in a sequence of "2,3,4,5,1"
+my code puts the first element of the sequence "1,2,3,4,5" to the last position and pushes the second element to the first position resulting in a sequence of "2,3,4,5,1"
 ![Screenshot (490)](https://user-images.githubusercontent.com/114272219/205530435-132fa641-9eef-498e-946f-e18ca1ac1985.png)
 
 For Question 2,
